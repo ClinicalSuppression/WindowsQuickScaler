@@ -1,0 +1,78 @@
+Windows Quick Scaler Personal and Non-Commercial License
+Version 1.0
+Copyright (c) 2026 ClinicalSuppression
+
+IMPORTANT: This is a custom license, not an OSI-approved open-source license.
+Read the terms below before using, modifying, or distributing the Software.
+
+1. Definitions
+
+"Software" means the Windows Quick Scaler source code and accompanying materials
+made available by ClinicalSuppression under this License.
+
+"Commercial Use" means using, incorporating, modifying, distributing, or making
+the Software available as part of a product or service that is sold, licensed,
+or otherwise provided for compensation or commercial advantage. This includes,
+without limitation, incorporating any part of the Software into a paid
+application, an application with paid features or subscriptions, or a product
+or service offered to customers or an organization for a fee.
+
+"Non-Commercial Use" means use solely for personal purposes, without Commercial
+Use.
+
+"You" means an individual or legal entity exercising rights under this License.
+
+2. Permission for Non-Commercial Use
+
+Subject to this License, ClinicalSuppression grants You a worldwide,
+non-exclusive, royalty-free, revocable license to use, run, reproduce, study,
+and modify the Software for Non-Commercial Use.
+
+You may redistribute unmodified or modified copies of the Software solely for
+Non-Commercial Use, provided that You:
+
+  a. include this License and the copyright notice with each copy;
+  b. identify modifications that You made; and
+  c. do not state or imply that ClinicalSuppression endorses Your version.
+
+No fee is due for the permissions granted for Non-Commercial Use.
+
+3. Commercial Use Requires a Separate Paid License
+
+This License does not grant permission for Commercial Use. Before engaging in
+any Commercial Use, You must obtain a separate written commercial license from
+ClinicalSuppression and pay the fee agreed in that written license.
+
+Without that separate written license, You may not incorporate any part of the
+Software into a paid application, sell or license the Software or a derivative
+work, or otherwise engage in Commercial Use.
+
+4. Restrictions and Reservation of Rights
+
+You may not remove or alter copyright notices or this License. All rights not
+expressly granted in this License are reserved by ClinicalSuppression.
+
+5. Termination
+
+The permissions granted by this License terminate automatically if You fail to
+comply with its terms. Upon termination, You must stop the use that violates
+this License. The permissions may be reinstated if the violation is corrected
+and ClinicalSuppression agrees in writing.
+
+6. Disclaimer of Warranty and Limitation of Liability
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. TO THE MAXIMUM EXTENT
+PERMITTED BY APPLICABLE LAW, CLINICALSUPPRESSION WILL NOT BE LIABLE FOR ANY
+CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION
+WITH THE SOFTWARE OR ITS USE.
+
+7. Other Rights
+
+This License does not limit rights that You may have under applicable law that
+cannot lawfully be limited by a software license. Third-party materials, if
+any, remain subject to their own license terms.
+
+For commercial licensing inquiries, contact ClinicalSuppression through:
+https://github.com/ClinicalSuppression

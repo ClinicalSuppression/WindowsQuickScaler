@@ -89,4 +89,8 @@ The installer script packages the x64 publish output and uses the app icon from 
 
 ## License
 
-No license has been added yet. Until one is added, all rights remain with the copyright holder; reuse and redistribution are not granted by this repository.
+Windows Quick Scaler is distributed under the [Windows Quick Scaler Personal and Non-Commercial License](./LICENSE), copyright (c) 2026 ClinicalSuppression.
+
+You may use, modify, and redistribute the software for personal, non-commercial purposes without charge, subject to the terms in `LICENSE`. Incorporating any part of it into a paid app or otherwise using it commercially requires a separate written commercial license and payment of the fee agreed with the copyright holder.
+
+This is a custom source-available license, not an OSI-approved open-source license. For commercial licensing inquiries, contact [ClinicalSuppression](https://github.com/ClinicalSuppression).
