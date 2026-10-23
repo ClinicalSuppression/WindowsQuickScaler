@@ -16,6 +16,7 @@ PrivilegesRequired=lowest
 
 [Files]
 Source: "{#PublishDir}\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "LICENSE"; DestDir: "{app}"; Flags: ignoreversion
 
 [Icons]
 Name: "{group}\Windows Quick Scaler"; Filename: "{app}\WindowsQuickScaler.exe"

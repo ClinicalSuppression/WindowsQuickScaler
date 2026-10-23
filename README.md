@@ -89,8 +89,8 @@ The installer script packages the x64 publish output and uses the app icon from 
 
 ## License
 
-Windows Quick Scaler is distributed under the [Windows Quick Scaler Personal and Non-Commercial License](./LICENSE), copyright (c) 2026 ClinicalSuppression.
+Windows Quick Scaler is distributed under the [PolyForm Noncommercial License 1.0.0](./LICENSE), copyright (c) 2026 ClinicalSuppression.
 
-You may use, modify, and redistribute the software for personal, non-commercial purposes without charge, subject to the terms in `LICENSE`. Incorporating any part of it into a paid app or otherwise using it commercially requires a separate written commercial license and payment of the fee agreed with the copyright holder.
+The license permits use, modification, and distribution for permitted noncommercial purposes. Commercial use—including incorporating the software into a paid app—is not permitted under these terms. Contact the copyright holder to request a separate commercial license.
 
-This is a custom source-available license, not an OSI-approved open-source license. For commercial licensing inquiries, contact [ClinicalSuppression](https://github.com/ClinicalSuppression).
+PolyForm Noncommercial is source-available and is not an OSI-approved open-source license. See the full terms in `LICENSE`. For commercial licensing inquiries, contact [ClinicalSuppression](https://github.com/ClinicalSuppression).
